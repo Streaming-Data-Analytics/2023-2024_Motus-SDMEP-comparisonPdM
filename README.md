@@ -4,9 +4,9 @@ Optional project of the [Streaming Data Analytics](http://emanueledellavalle.org
 
 Student: **[To be assigned]**
 
-The project will use the C++ library SDME-P1 on an Arduino Portenta H7 simulator2 or a physical Arduino Portenta H73 to solve a classification task. The aim is to train several models on SDME-P on an Arduino Portenta H7 simulator/physical device and to compare their performance w.r.t. the relative models trained on River and MOA.
+The project will use the [C++ library SDME-P](https://polimi365-my.sharepoint.com/:b:/g/personal/10453372_polimi_it/EfFE5I5GLftJt95B6Twc72MBomt2PbLt0_uv-Xk3Z6vH3w?e=MWoJQi) on an [Arduino Portenta H7 simulator](https://github.com/arduino-libraries/Arduino_PortentaX86) or a [physical Arduino Portenta H7](https://store.arduino.cc/products/portenta-h7) to solve a classification task. The aim is to train several models on SDME-P on an Arduino Portenta H7 simulator/physical device and to compare their performance w.r.t. the relative models trained on River and MOA.
 
-More in practice, for the AI4I 2020 Predictive Maintenance Dataset4, you have to train and test the KNN, SAM KNN, HT, ARF, and SRP models in SDME-P on an Arduino Portenta H7 simulator/physical device, and in MOA and River on your Pc, to predict if there is a failure or not.
+More in practice, for the [AI4I 2020 Predictive Maintenance Dataset](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset), you have to train and test the KNN, SAM KNN, HT, ARF, and SRP models in SDME-P on an Arduino Portenta H7 simulator/physical device, and in MOA and River on your Pc, to predict if there is a failure or not.
 About the data ingestion to the Arduino, follow the way it was done in the master thesis.
 
 You should use the following metrics to compare the results:
