@@ -20,7 +20,6 @@ Moreover, you should keep track of the Time, CPU and RAM usage to test and train
 You are required to create a .c file with the code for testing the models in SDME-P, a .sh or .java file with the code for testing the models in MOA, and a .py or .ipynb file for testing the models in River. All the results must be collected in a .ipynb file to be compared. You must include comments for the principal instructions, and you are allowed to import external py modules. Additionally, ensure you thoroughly comment on the comparison results using various plots associated with the different metrics. Finally, again, in the final .ipynb file, briefly discuss the conclusions that can be drawn from the experiment.
 
 If the Arduino Portenta H7 simulator is unavailable, we will give you a physical Arduino Portenta H7. Moreover, we will also give you the SDME-P code after signing an NDA disclosure.
-![image](https://github.com/Streaming-Data-Analytics/2023-2024_Motus-SDMEP-comparisonPdM/assets/82282137/96e382bc-083c-4f8a-a9df-04b1b0b47ce4)
 
 
 ## Note for Students
@@ -29,6 +28,5 @@ If the Arduino Portenta H7 simulator is unavailable, we will give you a physical
 * Add your name and surname into the Readme file;
 * Make any changes to your repository, according to the specific assignment;
 * Add a `requirement.txt` file for code reproducibility and instructions on how to replicate the results;
-* Add an open-source license, e.g., Apache 2.0;
 * Commit your changes to your local repository;
 * Push your changes to your online repository.
